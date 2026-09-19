@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "fd049d211b08acb19e8de47e",
+  "owner": "apftndw",
+  "repo": "page-9124cb8347756d43413565ba",
+  "title": "MZFast",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "9124cb8347756d43413565ba",
+      "a": "MZFast",
+      "b": "ClashX官方下载",
+      "entity": "MZFast",
+      "brand": "MZFast",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "cc49524f71db130d30026e4ab8f71d8913fa861715f61646d6d182e87ccb3382",
+      "content": {
+        "primary_entity": "MZFast",
+        "keyword1": "MZFast",
+        "keyword2": "ClashX官方下载",
+        "content": {
+          "AI_CLIENTS_INTRO": "在 macOS、Windows、iOS 与 Android 上按设备类型选择客户端，订阅链接通用。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "根据常用设备和流量需求选定套餐，导入订阅后即可开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐开始连接",
+          "AI_DESCRIPTION": "，围绕设备选择与订阅配置提供实用参考。基础版适合手机与平板轻度使用，旗舰版兼顾流媒体与游戏，团队版面向多设备协作。各套餐均提供清晰的月流量、同时在线设备数与计费周期说明，按用途挑选即可。",
+          "AI_FEATURES_INTRO": "从设备数量、流量额度与订阅周期三个角度对比套餐，按实际用量选择。",
+          "AI_FEATURES_TITLE": "选择要点",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台、旗舰版 5 台、团队版 20 台设备同时在线，按日常连接设备数挑选。",
+          "AI_FEATURE_TEXT_2": "月流量从 100GB 到 1000GB 分档，重度流媒体或团队协作可选更高流量套餐。",
+          "AI_FEATURE_TEXT_3": "月付灵活试水，年付价格更省，如基础版按年付仅需 ¥150/年。",
+          "AI_FEATURE_TITLE_1": "设备数量",
+          "AI_FEATURE_TITLE_2": "流量需求",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "从挑选服务到完成订阅配置，三步即可让设备接入 MZFast。",
+          "AI_GUIDE_TITLE": "三步接入",
+          "AI_HERO_INTRO": "MZFast 提供多档海外加速套餐，覆盖流媒体解锁、游戏专线与团队协作场景。基础版适合入门使用，旗舰版增加 IPLC 专线优化，团队版面向多设备高流量需求。按设备数量与流量选择对应套餐，再依照客户端文档导入订阅即可。",
+          "AI_HERO_SUBTITLE": "多档套餐满足不同设备需求",
+          "AI_HIGHLIGHT_1": "月流量 100GB 至 1000GB 分档",
+          "AI_HIGHLIGHT_2": "同时在线设备 3 台起",
+          "AI_HIGHLIGHT_3": "月付与年付两种周期",
+          "AI_PLANS_INTRO": "基础版每月 100GB 流量、3 台设备，旗舰版每月 300GB、5 台设备并含 IPLC 专线，团队版每月 1000GB、20 台设备。年付更划算，基础版按年付仅需 ¥150/年。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与月流量需求，在基础版、旗舰版、团队版中选择合适套餐。",
+          "AI_STEP_TEXT_2": "确认设备系统版本与客户端适配要求，准备对应平台的客户端。",
+          "AI_STEP_TEXT_3": "按照客户端文档导入订阅链接，完成节点配置后开始使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "MZFast 海外加速",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备、IPLC 专线；团队版每月 1000GB、20 台设备并支持企业定制路由。",
+          "AI_FAQ_ANSWER_2": "基础版和旗舰版面向个人或小团队，旗舰版增加专线游戏加速优化；团队版适合设备多、流量需求高并需要定制路由的场景。",
+          "AI_FAQ_ANSWER_3": "月付灵活，年付更划算：基础版年付 ¥150、旗舰版年付 ¥350、团队版年付 ¥850，折合每月成本都低于月付价格。",
+          "AI_FAQ_ANSWER_4": "Windows、macOS、Android、iOS 和路由器都有对应客户端可选择，按设备系统安装后导入订阅配置即可使用。",
+          "AI_FAQ_ANSWER_5": "套餐已标注同时在线设备数，基础版 3 台、旗舰版 5 台、团队版 20 台，超出时可在客户端退出其他设备或升级套餐。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "MZFast 三档套餐各包含多少流量和设备数？",
+          "AI_FAQ_QUESTION_2": "基础版、旗舰版和团队版分别适合什么用户？",
+          "AI_FAQ_QUESTION_3": "月付和年付的价格差异大吗？",
+          "AI_FAQ_QUESTION_4": "支持哪些设备客户端接入？",
+          "AI_FAQ_QUESTION_5": "同时在线设备数超出套餐限制怎么办？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "70b11ad118ce6a9e394904b59c7fe27e34a620d6348bc0452235dac9d47ac51a",
+    "sitemap.xml": "dbd9ad667889155bc307525fd92ac06a7bc661c0efcb70047c5d23bbe107530d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "4e6df025aa04cbbd06c8e981cd957266bdd9948ae88973f1871742c428799f5a"
+}
